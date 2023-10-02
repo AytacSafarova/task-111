@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&family=Roboto+Slab:wght@600&display=swap');p{
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+}
+h2{
+    color: yellow;
+    font-size: 30px;
+    background-color: #EFB495;
+    font-family: Inter;
+    font-weight: 700;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+a{
+    text-decoration: none;
+    color: #EFB495;
+    font-family: Roboto Slab;
+    fon
+}

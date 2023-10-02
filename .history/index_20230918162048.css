@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top {
+  width: 100px;
+  height: 28px;
+  background-color: tomato;
+  position: absolute;
+}
+/* .top:hover h2{
+position: relative;
+z-index: 2;
+}
+.top:hover{
+    position: relative;
+    z-index: -1
+    } */
+
+    h2{
+        position: relative;
+        z-index: 1;
+    }

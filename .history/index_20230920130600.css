@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top {
+  width: 300px;
+  height: 48px;
+  background-color: tomato;
+  position: absolute;
+}
+.top:hover {
+  display: none;
+}
+
+.top:hover +  h2 {
+  display: block;
+  color: blue;
+}
+
+h2{
+  display: none;
+}
+.navbar{
+  display: flex;
+  background-color: yellow;
+justify-content: space-around;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+
+h2{
+  
+}

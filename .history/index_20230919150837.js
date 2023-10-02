@@ -1,0 +1,2 @@
+localStorage('user-name', 'Aytac')
+

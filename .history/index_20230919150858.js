@@ -1,0 +1,2 @@
+// datanin atilmasi
+localStorage.setItem()

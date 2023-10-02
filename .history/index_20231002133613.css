@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 100%;
+  min-height: 100vh;
+  background-color: wheat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form{
+  background-color:violet;
+  width: 30%;
+  height: 500px;
+  padding: 30px;
+}
+
+input{
+  width: 100%;
+}

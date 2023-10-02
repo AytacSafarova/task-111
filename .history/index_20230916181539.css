@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue&display=swap');
+
+li:first-child{
+    background-color: tomato;
+}
+li:last-child{
+    background-color: violet;
+}

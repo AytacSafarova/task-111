@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+div {
+  width: 80%;
+  background-color: tomato;
+  position: absolute;
+}
+.top:hover {
+  display: none;
+}
+
+.top:hover +  h2 {
+  display: block;
+  color: blue;
+}
+
+h2{
+  display: none;
+}
+.navbar{
+  display: flex;
+  background-color: yellow;
+justify-content: space-around;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+
+h1{
+  background-color: violet;
+  position: sticky;
+  top: 0;
+
+}
